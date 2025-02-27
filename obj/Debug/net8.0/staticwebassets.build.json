@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J8MzFRvpYH8jR8PzTnearGEyXo3YyOkBxkygu/XAnxA=",
+  "Hash": "ODRyOBmVZfmg/QzQXoHc1HEwV0qAZcL3bvzyywoE5LQ=",
   "Source": "CrudProductos",
   "BasePath": "_content/CrudProductos",
   "Mode": "Default",
@@ -122,6 +122,48 @@
       "OriginalItemSpec": "wwwroot\\images\\coca.jpeg"
     },
     {
+      "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\coca_fbd5654e-f69f-4668-9ca5-57253e26836c.jpeg",
+      "SourceId": "CrudProductos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\",
+      "BasePath": "_content/CrudProductos",
+      "RelativePath": "images/coca_fbd5654e-f69f-4668-9ca5-57253e26836c#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "262ugxd67y",
+      "Integrity": "eupmz0g/7fY8qHrtzi4tUr5PpbtrkexiPmS3GUolOzg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\coca_fbd5654e-f69f-4668-9ca5-57253e26836c.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\dell_76de3abf-1425-41e1-ae8e-054316322dd4.jpg",
+      "SourceId": "CrudProductos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\",
+      "BasePath": "_content/CrudProductos",
+      "RelativePath": "images/dell_76de3abf-1425-41e1-ae8e-054316322dd4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5350i8wcr7",
+      "Integrity": "wYsm6WZFPcFmli0CbOdyOR39ZxFYP1oxBUZdPde5CKA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dell_76de3abf-1425-41e1-ae8e-054316322dd4.jpg"
+    },
+    {
       "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\Fanta3L.jpeg",
       "SourceId": "CrudProductos",
       "SourceType": "Discovered",
@@ -141,6 +183,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Fanta3L.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\Fanta3L_fe5c43e0-ffd9-4a27-80b2-e491b4220c9d.jpeg",
+      "SourceId": "CrudProductos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\",
+      "BasePath": "_content/CrudProductos",
+      "RelativePath": "images/Fanta3L_fe5c43e0-ffd9-4a27-80b2-e491b4220c9d#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5mdc5huiy0",
+      "Integrity": "7TgkSVuGbjAJHoH15v819U3J+ajyhtHBMrD0BGeh0GU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Fanta3L_fe5c43e0-ffd9-4a27-80b2-e491b4220c9d.jpeg"
     },
     {
       "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\Ruffles50g.jpg",
@@ -1616,7 +1679,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 23:21:33 GMT"
+          "Value": "Thu, 27 Feb 2025 23:39:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1661,7 +1724,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 23:21:33 GMT"
+          "Value": "Thu, 27 Feb 2025 23:39:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1706,7 +1769,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 23:21:33 GMT"
+          "Value": "Thu, 27 Feb 2025 23:39:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1743,7 +1806,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 23:21:33 GMT"
+          "Value": "Thu, 27 Feb 2025 23:39:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2004,6 +2067,170 @@
       ]
     },
     {
+      "Route": "images/coca_fbd5654e-f69f-4668-9ca5-57253e26836c.262ugxd67y.jpeg",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\coca_fbd5654e-f69f-4668-9ca5-57253e26836c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eupmz0g/7fY8qHrtzi4tUr5PpbtrkexiPmS3GUolOzg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 23:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "262ugxd67y"
+        },
+        {
+          "Name": "label",
+          "Value": "images/coca_fbd5654e-f69f-4668-9ca5-57253e26836c.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eupmz0g/7fY8qHrtzi4tUr5PpbtrkexiPmS3GUolOzg="
+        }
+      ]
+    },
+    {
+      "Route": "images/coca_fbd5654e-f69f-4668-9ca5-57253e26836c.jpeg",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\coca_fbd5654e-f69f-4668-9ca5-57253e26836c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eupmz0g/7fY8qHrtzi4tUr5PpbtrkexiPmS3GUolOzg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 23:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eupmz0g/7fY8qHrtzi4tUr5PpbtrkexiPmS3GUolOzg="
+        }
+      ]
+    },
+    {
+      "Route": "images/dell_76de3abf-1425-41e1-ae8e-054316322dd4.5350i8wcr7.jpg",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\dell_76de3abf-1425-41e1-ae8e-054316322dd4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wYsm6WZFPcFmli0CbOdyOR39ZxFYP1oxBUZdPde5CKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 23:23:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5350i8wcr7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/dell_76de3abf-1425-41e1-ae8e-054316322dd4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wYsm6WZFPcFmli0CbOdyOR39ZxFYP1oxBUZdPde5CKA="
+        }
+      ]
+    },
+    {
+      "Route": "images/dell_76de3abf-1425-41e1-ae8e-054316322dd4.jpg",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\dell_76de3abf-1425-41e1-ae8e-054316322dd4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wYsm6WZFPcFmli0CbOdyOR39ZxFYP1oxBUZdPde5CKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 23:23:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wYsm6WZFPcFmli0CbOdyOR39ZxFYP1oxBUZdPde5CKA="
+        }
+      ]
+    },
+    {
       "Route": "images/Fanta3L.5mdc5huiy0.jpeg",
       "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\Fanta3L.jpeg",
       "Selectors": [],
@@ -2072,6 +2299,88 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 26 Feb 2025 07:35:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7TgkSVuGbjAJHoH15v819U3J+ajyhtHBMrD0BGeh0GU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fanta3L_fe5c43e0-ffd9-4a27-80b2-e491b4220c9d.5mdc5huiy0.jpeg",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\Fanta3L_fe5c43e0-ffd9-4a27-80b2-e491b4220c9d.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7TgkSVuGbjAJHoH15v819U3J+ajyhtHBMrD0BGeh0GU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 23:23:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5mdc5huiy0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Fanta3L_fe5c43e0-ffd9-4a27-80b2-e491b4220c9d.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7TgkSVuGbjAJHoH15v819U3J+ajyhtHBMrD0BGeh0GU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Fanta3L_fe5c43e0-ffd9-4a27-80b2-e491b4220c9d.jpeg",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\Fanta3L_fe5c43e0-ffd9-4a27-80b2-e491b4220c9d.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7TgkSVuGbjAJHoH15v819U3J+ajyhtHBMrD0BGeh0GU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 23:23:02 GMT"
         },
         {
           "Name": "Cache-Control",

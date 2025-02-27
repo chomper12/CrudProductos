@@ -17,31 +17,31 @@
 
 	<ItemGroup>
 		<Reference Include="Data">
-			<HintPath>lib/Data.dll</HintPath>
+			<HintPath>wwwroot/lib/Data.dll</HintPath>
 		</Reference>
 		<Reference Include="DTOs">
-			<HintPath>lib/DTOs.dll</HintPath>
+			<HintPath>wwwroot/lib/DTOs.dll</HintPath>
 		</Reference>
 		<Reference Include="Exceptions">
-			<HintPath>lib/Exceptions.dll</HintPath>
+			<HintPath>wwwroot/lib/Exceptions.dll</HintPath>
 		</Reference>
 		<Reference Include="Interfaces">
-			<HintPath>lib/Interfaces.dll</HintPath>
+			<HintPath>wwwroot/lib/Interfaces.dll</HintPath>
 		</Reference>
 		<Reference Include="Middleware">
-			<HintPath>lib/Middleware.dll</HintPath>
+			<HintPath>wwwroot/lib/Middleware.dll</HintPath>
 		</Reference>
 		<Reference Include="Models">
-			<HintPath>lib/Models.dll</HintPath>
+			<HintPath>wwwroot/lib/Models.dll</HintPath>
 		</Reference>
 		<Reference Include="Repositories">
-			<HintPath>lib/Repositories.dll</HintPath>
+			<HintPath>wwwroot/lib/Repositories.dll</HintPath>
 		</Reference>
 		<Reference Include="Security">
-			<HintPath>lib/Security.dll</HintPath>
+			<HintPath>wwwroot/lib/Security.dll</HintPath>
 		</Reference>
 		<Reference Include="Services">
-			<HintPath>lib/Services.dll</HintPath>
+			<HintPath>wwwroot/lib/Services.dll</HintPath>
 		</Reference>
 	</ItemGroup>
 

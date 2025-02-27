@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\images\\Fanta3L.jpeg"
     },
     {
+      "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\Fanta3L_fe5c43e0-ffd9-4a27-80b2-e491b4220c9d.jpeg",
+      "PackagePath": "staticwebassets\\images\\Fanta3L_fe5c43e0-ffd9-4a27-80b2-e491b4220c9d.jpeg"
+    },
+    {
       "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\Ruffles50g.jpg",
       "PackagePath": "staticwebassets\\images\\Ruffles50g.jpg"
     },
@@ -27,6 +31,14 @@
     {
       "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\coca.jpeg",
       "PackagePath": "staticwebassets\\images\\coca.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\coca_fbd5654e-f69f-4668-9ca5-57253e26836c.jpeg",
+      "PackagePath": "staticwebassets\\images\\coca_fbd5654e-f69f-4668-9ca5-57253e26836c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\images\\dell_76de3abf-1425-41e1-ae8e-054316322dd4.jpg",
+      "PackagePath": "staticwebassets\\images\\dell_76de3abf-1425-41e1-ae8e-054316322dd4.jpg"
     },
     {
       "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\js\\site.js",

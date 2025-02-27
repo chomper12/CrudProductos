@@ -1,7 +1,10 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\coca.jpeg
+wwwroot\images\coca_fbd5654e-f69f-4668-9ca5-57253e26836c.jpeg
+wwwroot\images\dell_76de3abf-1425-41e1-ae8e-054316322dd4.jpg
 wwwroot\images\Fanta3L.jpeg
+wwwroot\images\Fanta3L_fe5c43e0-ffd9-4a27-80b2-e491b4220c9d.jpeg
 wwwroot\images\Ruffles50g.jpg
 wwwroot\images\Ruffles50g_052e197b-431b-4295-8025-2f77e5129ada.jpg
 wwwroot\js\site.js

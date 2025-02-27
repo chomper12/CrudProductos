@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -17,31 +17,31 @@
 
 	<ItemGroup>
 		<Reference Include="Data">
-			<HintPath>libs/Data.dll</HintPath>
+			<HintPath>lib/Data.dll</HintPath>
 		</Reference>
 		<Reference Include="DTOs">
-			<HintPath>libs/DTOs.dll</HintPath>
+			<HintPath>lib/DTOs.dll</HintPath>
 		</Reference>
 		<Reference Include="Exceptions">
-			<HintPath>libs/Exceptions.dll</HintPath>
+			<HintPath>lib/Exceptions.dll</HintPath>
 		</Reference>
 		<Reference Include="Interfaces">
-			<HintPath>libs/Interfaces.dll</HintPath>
+			<HintPath>lib/Interfaces.dll</HintPath>
 		</Reference>
 		<Reference Include="Middleware">
-			<HintPath>libs/Middleware.dll</HintPath>
+			<HintPath>lib/Middleware.dll</HintPath>
 		</Reference>
 		<Reference Include="Models">
-			<HintPath>libs/Models.dll</HintPath>
+			<HintPath>lib/Models.dll</HintPath>
 		</Reference>
 		<Reference Include="Repositories">
-			<HintPath>libs/Repositories.dll</HintPath>
+			<HintPath>lib/Repositories.dll</HintPath>
 		</Reference>
 		<Reference Include="Security">
-			<HintPath>libs/Security.dll</HintPath>
+			<HintPath>lib/Security.dll</HintPath>
 		</Reference>
 		<Reference Include="Services">
-			<HintPath>libs/Services.dll</HintPath>
+			<HintPath>lib/Services.dll</HintPath>
 		</Reference>
 	</ItemGroup>
 

@@ -280,3 +280,6 @@ C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\
 C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\obj\Debug\net8.0\CrudProductos.genruntimeconfig.cache
 C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\obj\Debug\net8.0\ref\CrudProductos.dll
 C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\obj\Debug\net8.0\CrudProductos.sourcelink.json
+C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\bin\Debug\net8.0\Npgsql.dll
+C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

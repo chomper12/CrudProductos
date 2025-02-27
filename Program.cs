@@ -8,12 +8,16 @@ using Services;
 using Security;
 using System.Globalization;
 using Microsoft.AspNetCore.Localization;
+using System.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Configurar base de datos
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+        options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+//builder.Services.AddDbContext<ApplicationDbContext>(options =>
+//    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Configurar localización (idioma por defecto: Español - México)
 builder.Services.Configure<RequestLocalizationOptions>(options =>

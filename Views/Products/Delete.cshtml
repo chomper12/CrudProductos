@@ -1,0 +1,41 @@
+﻿@using Models
+@model Product
+
+@{
+    ViewData["Title"] = "Eliminar Producto";
+}
+
+<h2>Eliminar Producto</h2>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control" readonly></textarea>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" type="number" class="form-control" step="0.01" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Stock"></label>
+        <input asp-for="Stock" type="number" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label>Cantidad a eliminar</label>
+        <input type="number" name="quantity" class="form-control" min="1" max="@Model.Stock" required />
+    </div>
+
+    <button type="submit" class="btn btn-danger" onclick="return confirm('¿Estás seguro de que deseas eliminar este producto?');">
+        Eliminar
+    </button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

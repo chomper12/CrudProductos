@@ -1,0 +1,60 @@
+﻿@using Models
+@model Product
+
+@{
+    ViewData["Title"] = "Crear Producto";
+}
+
+<h2>Crear Producto</h2>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        @if (!ViewData.ModelState.IsValid && ViewData.ModelState["Name"]?.Errors.Count > 0)
+        {
+            <div class="alert alert-danger">
+                <strong>Atención:</strong> Por favor, ingresa el Nombre del producto.
+            </div>
+        }
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        @if (!ViewData.ModelState.IsValid && ViewData.ModelState["Description"]?.Errors.Count > 0)
+        {
+            <div class="alert alert-danger">
+                <strong>Atención:</strong> Por favor, ingresa la Descripcion del producto.
+            </div>
+        }
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" type="number" class="form-control" step="0.01" />
+        @if (!ViewData.ModelState.IsValid && ViewData.ModelState["Price"]?.Errors.Count > 0)
+        {
+            <div class="alert alert-danger">
+                <strong>Atención:</strong> Por favor, ingresa el Precio del producto.
+            </div>
+        }
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Stock"></label>
+        <input asp-for="Stock" type="number" class="form-control" />
+        @if (!ViewData.ModelState.IsValid && ViewData.ModelState["Stock"]?.Errors.Count > 0)
+        {
+            <div class="alert alert-danger">
+                <strong>Atención:</strong> Por favor, ingresa la cantidad del producto.
+            </div>
+        }
+    </div>
+    <div class="form-group">
+        <label>Image</label>
+        <input type="file" name="imageFile" id="imageFile" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>

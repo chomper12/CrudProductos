@@ -1,0 +1,28 @@
+﻿@using Models
+@model Product
+
+@{
+    ViewData["Title"] = "Detalles del Producto";
+}
+
+<h2>Detalles del Producto</h2>
+
+<div class="card" style="width: 30rem;">
+    <img src="@Model.ImageUrl" class="card-img-top" alt="Imagen del producto" style="max-height: 300px; object-fit: contain;">
+    <div class="card-body">
+        <h4 class="card-title">@Model.Name</h4>
+        <p class="card-text"><strong>Descripción:</strong> @Model.Description</p>
+        <p class="card-text"><strong>Precio:</strong> $@Model.Price</p>
+        <p class="card-text"><strong>Stock:</strong> @Model.Stock</p>
+        <p class="card-text"><strong>Url dela imagen:</strong> @Model.ImageUrl</p>
+        <p class="card-text"><strong>Fecha de Creación:</strong> @Model.CreatedAt.ToString("dd/MM/yyyy")</p>
+
+        @if (Model.UpdatedAt.HasValue)
+        {
+            <p class="card-text"><strong>Última Actualización:</strong> @Model.UpdatedAt.Value.ToString("dd/MM/yyyy")</p>
+        }
+
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Editar</a>
+        <a asp-action="Index" class="btn btn-secondary">Volver a la lista</a>
+    </div>
+</div>

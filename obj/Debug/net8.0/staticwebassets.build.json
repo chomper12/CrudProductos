@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CHMOa6XPGfXPV66+LdlC+hCthRpkG+VmXN/+YPkGTtE=",
+  "Hash": "J8MzFRvpYH8jR8PzTnearGEyXo3YyOkBxkygu/XAnxA=",
   "Source": "CrudProductos",
   "BasePath": "_content/CrudProductos",
   "Mode": "Default",
@@ -1151,6 +1151,90 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+      "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Data.dll",
+      "SourceId": "CrudProductos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\",
+      "BasePath": "_content/CrudProductos",
+      "RelativePath": "lib/Data#[.{fingerprint}]?.dll",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ew3hnhcuj6",
+      "Integrity": "AjcWEVX1xsCGOXrn3/Xp5hKlDc5DHmQ+Smifoyby4Do=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\Data.dll"
+    },
+    {
+      "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\DTOs.dll",
+      "SourceId": "CrudProductos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\",
+      "BasePath": "_content/CrudProductos",
+      "RelativePath": "lib/DTOs#[.{fingerprint}]?.dll",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x25lfhjoqu",
+      "Integrity": "+Y8amZ/D9IsbefkoGPTWMnOdIZz/vMFrZeRyp2d0pLo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\DTOs.dll"
+    },
+    {
+      "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Exceptions.dll",
+      "SourceId": "CrudProductos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\",
+      "BasePath": "_content/CrudProductos",
+      "RelativePath": "lib/Exceptions#[.{fingerprint}]?.dll",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gxnubgxr8v",
+      "Integrity": "XDCQnizgnEPbrYOTi+2yCr/Y/uumxV9nD3GCwA3DBSk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\Exceptions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Interfaces.dll",
+      "SourceId": "CrudProductos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\",
+      "BasePath": "_content/CrudProductos",
+      "RelativePath": "lib/Interfaces#[.{fingerprint}]?.dll",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pz3qyq7o4e",
+      "Integrity": "tRAqOL6JX1Fwz9U51sq97sw/0DqBAClCi53Vvb08+L8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\Interfaces.dll"
+    },
+    {
       "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "CrudProductos",
       "SourceType": "Discovered",
@@ -1401,6 +1485,111 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Middleware.dll",
+      "SourceId": "CrudProductos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\",
+      "BasePath": "_content/CrudProductos",
+      "RelativePath": "lib/Middleware#[.{fingerprint}]?.dll",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cakh4cwlry",
+      "Integrity": "DAsd7GXKC0qWpz+CJ6D1q5EYR2o3C4uX9EIgyHwrLag=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\Middleware.dll"
+    },
+    {
+      "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Models.dll",
+      "SourceId": "CrudProductos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\",
+      "BasePath": "_content/CrudProductos",
+      "RelativePath": "lib/Models#[.{fingerprint}]?.dll",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z4t415on2m",
+      "Integrity": "fX7CyfnLOVHysE2AvN7GYTrbCB42o/iuNLcS/7/q2pk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\Models.dll"
+    },
+    {
+      "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Repositories.dll",
+      "SourceId": "CrudProductos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\",
+      "BasePath": "_content/CrudProductos",
+      "RelativePath": "lib/Repositories#[.{fingerprint}]?.dll",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g6xs7yyved",
+      "Integrity": "CFrSJ61LDBe02mJd8HSxB3zqAsIcP4g4r5NpFW0u1eA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\Repositories.dll"
+    },
+    {
+      "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Security.dll",
+      "SourceId": "CrudProductos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\",
+      "BasePath": "_content/CrudProductos",
+      "RelativePath": "lib/Security#[.{fingerprint}]?.dll",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jov5oj3zy8",
+      "Integrity": "XZwImmxTKF3e/beADZ8N+WWvVvZkqAe48DCtcUTulGY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\Security.dll"
+    },
+    {
+      "Identity": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Services.dll",
+      "SourceId": "CrudProductos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\",
+      "BasePath": "_content/CrudProductos",
+      "RelativePath": "lib/Services#[.{fingerprint}]?.dll",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sb13j8d50s",
+      "Integrity": "eEz58ZSsA4gaYtmQpetx8Tvh0YCcvvJR9Rt2//a/udU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\Services.dll"
     }
   ],
   "Endpoints": [
@@ -1427,7 +1616,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:23:43 GMT"
+          "Value": "Thu, 27 Feb 2025 23:21:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1472,7 +1661,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:23:43 GMT"
+          "Value": "Thu, 27 Feb 2025 23:21:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1517,7 +1706,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:23:43 GMT"
+          "Value": "Thu, 27 Feb 2025 23:21:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1554,7 +1743,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:23:43 GMT"
+          "Value": "Thu, 27 Feb 2025 23:21:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5833,6 +6022,334 @@
       ]
     },
     {
+      "Route": "lib/Data.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Data.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AjcWEVX1xsCGOXrn3/Xp5hKlDc5DHmQ+Smifoyby4Do=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:18:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AjcWEVX1xsCGOXrn3/Xp5hKlDc5DHmQ+Smifoyby4Do="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Data.ew3hnhcuj6.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Data.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AjcWEVX1xsCGOXrn3/Xp5hKlDc5DHmQ+Smifoyby4Do=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:18:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ew3hnhcuj6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Data.dll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AjcWEVX1xsCGOXrn3/Xp5hKlDc5DHmQ+Smifoyby4Do="
+        }
+      ]
+    },
+    {
+      "Route": "lib/DTOs.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\DTOs.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Y8amZ/D9IsbefkoGPTWMnOdIZz/vMFrZeRyp2d0pLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 01:17:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Y8amZ/D9IsbefkoGPTWMnOdIZz/vMFrZeRyp2d0pLo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/DTOs.x25lfhjoqu.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\DTOs.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Y8amZ/D9IsbefkoGPTWMnOdIZz/vMFrZeRyp2d0pLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 01:17:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x25lfhjoqu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/DTOs.dll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Y8amZ/D9IsbefkoGPTWMnOdIZz/vMFrZeRyp2d0pLo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Exceptions.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Exceptions.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XDCQnizgnEPbrYOTi+2yCr/Y/uumxV9nD3GCwA3DBSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 03:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XDCQnizgnEPbrYOTi+2yCr/Y/uumxV9nD3GCwA3DBSk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Exceptions.gxnubgxr8v.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Exceptions.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XDCQnizgnEPbrYOTi+2yCr/Y/uumxV9nD3GCwA3DBSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 03:59:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gxnubgxr8v"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Exceptions.dll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XDCQnizgnEPbrYOTi+2yCr/Y/uumxV9nD3GCwA3DBSk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Interfaces.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Interfaces.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tRAqOL6JX1Fwz9U51sq97sw/0DqBAClCi53Vvb08+L8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:05:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tRAqOL6JX1Fwz9U51sq97sw/0DqBAClCi53Vvb08+L8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Interfaces.pz3qyq7o4e.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Interfaces.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tRAqOL6JX1Fwz9U51sq97sw/0DqBAClCi53Vvb08+L8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:05:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pz3qyq7o4e"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Interfaces.dll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tRAqOL6JX1Fwz9U51sq97sw/0DqBAClCi53Vvb08+L8="
+        }
+      ]
+    },
+    {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
       "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
@@ -6813,6 +7330,416 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Middleware.cakh4cwlry.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Middleware.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DAsd7GXKC0qWpz+CJ6D1q5EYR2o3C4uX9EIgyHwrLag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:21:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cakh4cwlry"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Middleware.dll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DAsd7GXKC0qWpz+CJ6D1q5EYR2o3C4uX9EIgyHwrLag="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Middleware.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Middleware.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DAsd7GXKC0qWpz+CJ6D1q5EYR2o3C4uX9EIgyHwrLag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:21:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DAsd7GXKC0qWpz+CJ6D1q5EYR2o3C4uX9EIgyHwrLag="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Models.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Models.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fX7CyfnLOVHysE2AvN7GYTrbCB42o/iuNLcS/7/q2pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:06:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fX7CyfnLOVHysE2AvN7GYTrbCB42o/iuNLcS/7/q2pk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Models.z4t415on2m.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Models.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fX7CyfnLOVHysE2AvN7GYTrbCB42o/iuNLcS/7/q2pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:06:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z4t415on2m"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Models.dll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fX7CyfnLOVHysE2AvN7GYTrbCB42o/iuNLcS/7/q2pk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Repositories.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Repositories.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CFrSJ61LDBe02mJd8HSxB3zqAsIcP4g4r5NpFW0u1eA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:15:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CFrSJ61LDBe02mJd8HSxB3zqAsIcP4g4r5NpFW0u1eA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Repositories.g6xs7yyved.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Repositories.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CFrSJ61LDBe02mJd8HSxB3zqAsIcP4g4r5NpFW0u1eA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:15:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g6xs7yyved"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Repositories.dll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CFrSJ61LDBe02mJd8HSxB3zqAsIcP4g4r5NpFW0u1eA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Security.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Security.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZwImmxTKF3e/beADZ8N+WWvVvZkqAe48DCtcUTulGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:19:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZwImmxTKF3e/beADZ8N+WWvVvZkqAe48DCtcUTulGY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Security.jov5oj3zy8.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Security.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZwImmxTKF3e/beADZ8N+WWvVvZkqAe48DCtcUTulGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:19:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jov5oj3zy8"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Security.dll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZwImmxTKF3e/beADZ8N+WWvVvZkqAe48DCtcUTulGY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Services.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Services.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEz58ZSsA4gaYtmQpetx8Tvh0YCcvvJR9Rt2//a/udU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:19:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eEz58ZSsA4gaYtmQpetx8Tvh0YCcvvJR9Rt2//a/udU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Services.sb13j8d50s.dll",
+      "AssetFile": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Services.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEz58ZSsA4gaYtmQpetx8Tvh0YCcvvJR9Rt2//a/udU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:19:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sb13j8d50s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Services.dll"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eEz58ZSsA4gaYtmQpetx8Tvh0YCcvvJR9Rt2//a/udU="
         }
       ]
     }

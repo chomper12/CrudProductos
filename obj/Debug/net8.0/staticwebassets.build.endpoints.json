@@ -29,7 +29,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:23:43 GMT"
+          "Value": "Thu, 27 Feb 2025 23:21:33 GMT"
         }
       ],
       "EndpointProperties": [
@@ -74,7 +74,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 04:23:43 GMT"
+          "Value": "Thu, 27 Feb 2025 23:21:33 GMT"
         }
       ],
       "EndpointProperties": [
@@ -655,6 +655,744 @@
         {
           "Name": "label",
           "Value": "js/site.js"
+        }
+      ]
+    },
+    {
+      "Route": "lib/DTOs.dll",
+      "AssetFile": "lib/DTOs.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Y8amZ/D9IsbefkoGPTWMnOdIZz/vMFrZeRyp2d0pLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 01:17:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Y8amZ/D9IsbefkoGPTWMnOdIZz/vMFrZeRyp2d0pLo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/DTOs.x25lfhjoqu.dll",
+      "AssetFile": "lib/DTOs.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Y8amZ/D9IsbefkoGPTWMnOdIZz/vMFrZeRyp2d0pLo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 01:17:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x25lfhjoqu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Y8amZ/D9IsbefkoGPTWMnOdIZz/vMFrZeRyp2d0pLo="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/DTOs.dll"
+        }
+      ]
+    },
+    {
+      "Route": "lib/Data.dll",
+      "AssetFile": "lib/Data.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AjcWEVX1xsCGOXrn3/Xp5hKlDc5DHmQ+Smifoyby4Do=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:18:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AjcWEVX1xsCGOXrn3/Xp5hKlDc5DHmQ+Smifoyby4Do="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Data.ew3hnhcuj6.dll",
+      "AssetFile": "lib/Data.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AjcWEVX1xsCGOXrn3/Xp5hKlDc5DHmQ+Smifoyby4Do=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:18:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ew3hnhcuj6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AjcWEVX1xsCGOXrn3/Xp5hKlDc5DHmQ+Smifoyby4Do="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Data.dll"
+        }
+      ]
+    },
+    {
+      "Route": "lib/Exceptions.dll",
+      "AssetFile": "lib/Exceptions.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XDCQnizgnEPbrYOTi+2yCr/Y/uumxV9nD3GCwA3DBSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 03:59:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XDCQnizgnEPbrYOTi+2yCr/Y/uumxV9nD3GCwA3DBSk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Exceptions.gxnubgxr8v.dll",
+      "AssetFile": "lib/Exceptions.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XDCQnizgnEPbrYOTi+2yCr/Y/uumxV9nD3GCwA3DBSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 03:59:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gxnubgxr8v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XDCQnizgnEPbrYOTi+2yCr/Y/uumxV9nD3GCwA3DBSk="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Exceptions.dll"
+        }
+      ]
+    },
+    {
+      "Route": "lib/Interfaces.dll",
+      "AssetFile": "lib/Interfaces.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tRAqOL6JX1Fwz9U51sq97sw/0DqBAClCi53Vvb08+L8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:05:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tRAqOL6JX1Fwz9U51sq97sw/0DqBAClCi53Vvb08+L8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Interfaces.pz3qyq7o4e.dll",
+      "AssetFile": "lib/Interfaces.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tRAqOL6JX1Fwz9U51sq97sw/0DqBAClCi53Vvb08+L8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:05:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pz3qyq7o4e"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tRAqOL6JX1Fwz9U51sq97sw/0DqBAClCi53Vvb08+L8="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Interfaces.dll"
+        }
+      ]
+    },
+    {
+      "Route": "lib/Middleware.cakh4cwlry.dll",
+      "AssetFile": "lib/Middleware.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DAsd7GXKC0qWpz+CJ6D1q5EYR2o3C4uX9EIgyHwrLag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:21:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cakh4cwlry"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DAsd7GXKC0qWpz+CJ6D1q5EYR2o3C4uX9EIgyHwrLag="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Middleware.dll"
+        }
+      ]
+    },
+    {
+      "Route": "lib/Middleware.dll",
+      "AssetFile": "lib/Middleware.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DAsd7GXKC0qWpz+CJ6D1q5EYR2o3C4uX9EIgyHwrLag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:21:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DAsd7GXKC0qWpz+CJ6D1q5EYR2o3C4uX9EIgyHwrLag="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Models.dll",
+      "AssetFile": "lib/Models.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fX7CyfnLOVHysE2AvN7GYTrbCB42o/iuNLcS/7/q2pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:06:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fX7CyfnLOVHysE2AvN7GYTrbCB42o/iuNLcS/7/q2pk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Models.z4t415on2m.dll",
+      "AssetFile": "lib/Models.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7168"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fX7CyfnLOVHysE2AvN7GYTrbCB42o/iuNLcS/7/q2pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:06:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z4t415on2m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fX7CyfnLOVHysE2AvN7GYTrbCB42o/iuNLcS/7/q2pk="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Models.dll"
+        }
+      ]
+    },
+    {
+      "Route": "lib/Repositories.dll",
+      "AssetFile": "lib/Repositories.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CFrSJ61LDBe02mJd8HSxB3zqAsIcP4g4r5NpFW0u1eA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:15:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CFrSJ61LDBe02mJd8HSxB3zqAsIcP4g4r5NpFW0u1eA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Repositories.g6xs7yyved.dll",
+      "AssetFile": "lib/Repositories.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CFrSJ61LDBe02mJd8HSxB3zqAsIcP4g4r5NpFW0u1eA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:15:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g6xs7yyved"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CFrSJ61LDBe02mJd8HSxB3zqAsIcP4g4r5NpFW0u1eA="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Repositories.dll"
+        }
+      ]
+    },
+    {
+      "Route": "lib/Security.dll",
+      "AssetFile": "lib/Security.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZwImmxTKF3e/beADZ8N+WWvVvZkqAe48DCtcUTulGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:19:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZwImmxTKF3e/beADZ8N+WWvVvZkqAe48DCtcUTulGY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Security.jov5oj3zy8.dll",
+      "AssetFile": "lib/Security.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5632"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZwImmxTKF3e/beADZ8N+WWvVvZkqAe48DCtcUTulGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:19:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jov5oj3zy8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZwImmxTKF3e/beADZ8N+WWvVvZkqAe48DCtcUTulGY="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Security.dll"
+        }
+      ]
+    },
+    {
+      "Route": "lib/Services.dll",
+      "AssetFile": "lib/Services.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEz58ZSsA4gaYtmQpetx8Tvh0YCcvvJR9Rt2//a/udU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:19:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eEz58ZSsA4gaYtmQpetx8Tvh0YCcvvJR9Rt2//a/udU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/Services.sb13j8d50s.dll",
+      "AssetFile": "lib/Services.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEz58ZSsA4gaYtmQpetx8Tvh0YCcvvJR9Rt2//a/udU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 04:19:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sb13j8d50s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eEz58ZSsA4gaYtmQpetx8Tvh0YCcvvJR9Rt2//a/udU="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/Services.dll"
         }
       ]
     },

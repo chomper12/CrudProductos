@@ -33,6 +33,42 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\DTOs.dll",
+      "PackagePath": "staticwebassets\\lib\\DTOs.dll"
+    },
+    {
+      "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Data.dll",
+      "PackagePath": "staticwebassets\\lib\\Data.dll"
+    },
+    {
+      "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Exceptions.dll",
+      "PackagePath": "staticwebassets\\lib\\Exceptions.dll"
+    },
+    {
+      "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Interfaces.dll",
+      "PackagePath": "staticwebassets\\lib\\Interfaces.dll"
+    },
+    {
+      "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Middleware.dll",
+      "PackagePath": "staticwebassets\\lib\\Middleware.dll"
+    },
+    {
+      "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Models.dll",
+      "PackagePath": "staticwebassets\\lib\\Models.dll"
+    },
+    {
+      "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Repositories.dll",
+      "PackagePath": "staticwebassets\\lib\\Repositories.dll"
+    },
+    {
+      "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Security.dll",
+      "PackagePath": "staticwebassets\\lib\\Security.dll"
+    },
+    {
+      "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\Services.dll",
+      "PackagePath": "staticwebassets\\lib\\Services.dll"
+    },
+    {
       "Id": "C:\\Users\\chomp\\OneDrive\\Desktop\\Sistema de asistencia en C# net 8\\CrudProductos\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },

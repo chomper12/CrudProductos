@@ -1,39 +1,27 @@
-# Usa la imagen base de .NET
+# Usar la imagen base de .NET 8 SDK para la compilación
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+
+# Establecer el directorio de trabajo en la imagen
+WORKDIR /src
+
+# Copiar el archivo de proyecto y restaurar las dependencias
+COPY ["CrudProductos/CrudProductos.csproj", "CrudProductos/"]
+RUN dotnet restore "CrudProductos/CrudProductos.csproj"
+
+# Copiar el resto del código y construir el proyecto
+COPY . .
+RUN dotnet build "CrudProductos.csproj" -c Release -o /app/build
+
+# Publicar el proyecto
+RUN dotnet publish "CrudProductos.csproj" -c Release -o /app/publish
+
+# Establecer la imagen base de runtime para el contenedor final
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 WORKDIR /app
 EXPOSE 80
 
-# Usa la imagen SDK de .NET para compilar
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /src
+# Copiar el proyecto publicado
+COPY --from=build /app/publish .
 
-# Copiar el archivo .csproj y restaurar dependencias
-COPY ["CrudProductos.csproj", "CrudProductos/"]
-RUN dotnet restore "CrudProductos/CrudProductos.csproj"
-
-# Copiar todo el contenido del proyecto
-COPY . .
-
-# Configurar el directorio de trabajo y compilar el proyecto
-WORKDIR "/src/CrudProductos"
-RUN dotnet build "CrudProductos.csproj" -c Release -o /app/build
-
-# Publicar la aplicación
-FROM build AS publish
-RUN dotnet publish "CrudProductos.csproj" -c Release -o /app/publish
-
-# Crear una nueva capa para el contenedor final
-FROM base AS final
-WORKDIR /app
-
-# Copiar los archivos publicados
-COPY --from=publish /app/publish .
-
-# Copiar las DLLs desde wwwroot/lib a la imagen
-COPY ./wwwroot/lib /app/wwwroot/lib
-
-# Asegurarse de que las DLLs estén referenciadas correctamente en el proyecto
-RUN echo "Verificando las DLLs en el contenedor" && ls /app/wwwroot/lib
-
-# Establecer el punto de entrada para la aplicación
+# Comando para ejecutar la aplicación
 ENTRYPOINT ["dotnet", "CrudProductos.dll"]

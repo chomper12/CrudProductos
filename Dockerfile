@@ -5,7 +5,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Copiar el archivo de proyecto y restaurar las dependencias
-COPY ["CrudProductos/CrudProductos.csproj", "CrudProductos/"]
+COPY ["CrudProductos.csproj", "CrudProductos/"]
 RUN dotnet restore "CrudProductos/CrudProductos.csproj"
 
 # Copiar el resto del código y construir el proyecto

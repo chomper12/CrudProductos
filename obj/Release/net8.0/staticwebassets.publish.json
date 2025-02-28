@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "Hash": "pZQ4lZJkFGlPddI5yflcdUHcKjAJYDyKacfvK93Eibk=",
+  "Hash": "a4WgHAZvDRI+ms8cKW/BRvZPdFDyUWcHtiCumy2q/9c=",
   "Source": "CrudProductos",
   "BasePath": "_content/CrudProductos",
   "Mode": "Default",
-  "ManifestType": "Build",
+  "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {

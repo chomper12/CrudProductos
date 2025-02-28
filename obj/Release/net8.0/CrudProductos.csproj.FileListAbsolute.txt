@@ -246,15 +246,6 @@ C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\
 C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\bin\Release\net8.0\Repositories.dll
 C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\bin\Release\net8.0\Security.dll
 C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\bin\Release\net8.0\Services.dll
-C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\bin\Release\net8.0\Data.pdb
-C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\bin\Release\net8.0\DTOs.pdb
-C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\bin\Release\net8.0\Exceptions.pdb
-C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\bin\Release\net8.0\Interfaces.pdb
-C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\bin\Release\net8.0\Middleware.pdb
-C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\bin\Release\net8.0\Models.pdb
-C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\bin\Release\net8.0\Repositories.pdb
-C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\bin\Release\net8.0\Security.pdb
-C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\bin\Release\net8.0\Services.pdb
 C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\obj\Release\net8.0\CrudProductos.csproj.AssemblyReference.cache
 C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\obj\Release\net8.0\CrudProductos.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\chomp\OneDrive\Desktop\Sistema de asistencia en C# net 8\CrudProductos\obj\Release\net8.0\CrudProductos.AssemblyInfoInputs.cache

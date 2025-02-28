@@ -9,11 +9,11 @@
     <table class="table">
         <thead>
             <tr>
-                <th>@Html.DisplayNameFor(model => model.Items.FirstOrDefault().Name)</th>
-                <th>@Html.DisplayNameFor(model => model.Items.FirstOrDefault().Description)</th>
+                <th>@Html.DisplayNameFor(model => model.Items[0].Name)</th>
+                <th>@Html.DisplayNameFor(model => model.Items[0].Description)</th>
                 <th>Price (MXN)</th>
                 <th>Image</th>
-                <th>@Html.DisplayNameFor(model => model.Items.FirstOrDefault().Stock)</th>
+                <th>@Html.DisplayNameFor(model => model.Items[0].Stock)</th>
                 <th>Actions</th>
             </tr>
         </thead>
